@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
-    int u=0,l=0,d=0;
-    int
+    int u=0,l=0,d=0,m,n;
+     int arr[3][3];
     for(int i=0;i<m;i++){
     for(int j=0;j<n;j++){
         printf("enter the raws and column :",i,j);

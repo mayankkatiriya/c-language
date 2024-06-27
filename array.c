@@ -1,4 +1,4 @@
->#include<stdio.h>
+#include<stdio.h>
 int main(){
 
 char a[7]={'H','E','L','L','O'};
