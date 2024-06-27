@@ -1,0 +1,19 @@
+#include <stdio.h>
+int main (){
+int a;
+int b;
+int c;
+int d;
+int p;
+printf("enter the a of value");
+scanf("%d",&a);
+printf("enter the b of value");
+scanf("%d",&b);
+printf("enter the c of value");
+scanf("%d",&c);
+printf("enter the d of value");
+scanf("%d",&d);
+p=((a-b)*(b-a)+(c-d)*(d-c));
+printf("value of p is;%d",p);
+return 0;
+}
